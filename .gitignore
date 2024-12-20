@@ -163,3 +163,4 @@ cython_debug/
 
 # Resources
 resource.txt
+test*.ipynb
